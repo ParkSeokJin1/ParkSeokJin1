@@ -12,7 +12,7 @@
 
   
 ---
-![ParkSeokjin's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![Seokjin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParkSeokJin1&show_icons=true&theme=transparent)
 
   
 <br />
