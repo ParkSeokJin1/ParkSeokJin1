@@ -45,9 +45,6 @@
 
 ## 📫 Contact & Channel
 
-- Email: <a href="skatksdml1@naver.com">
-  <img align="center" src="https://img.shields.io/badge/-Please_Email_me-EA4335?logo=gmail&logoColor=white&style=for-the-badge" alt="my Email" />
-  </a>
 - Blog(in Korean): <a href="https://blog.naver.com/skatksdml1">
   <img align="center" src="https://img.shields.io/badge/-Visit_My_Blog-000000?logo=Tistory&logoColor=white&style=for-the-badge" alt="my Blog" />
   </a>
