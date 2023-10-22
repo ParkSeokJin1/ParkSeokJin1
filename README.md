@@ -11,6 +11,12 @@
 -  <img align="center" src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=black&style=flat" alt="React" /> I am very interested in React.
 
   
+---
+[![ParkSeokJin1's GitHub stats](https://github-readme-stats.vercel.app/api?
+username=bi-sz&include_all_commits=true&show_icons=true&theme=cobalt)]
+(https://github.com/bi-sz/github-readme-stats)
+
+  
 <br />
 
 ## 🧑🏻‍💻 Languages & Frameworks
