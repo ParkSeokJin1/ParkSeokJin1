@@ -12,9 +12,7 @@
 
   
 ---
-[![ParkSeokJin1's GitHub stats](https://github-readme-stats.vercel.app/api?
-username=bi-sz&include_all_commits=true&show_icons=true&theme=cobalt)]
-(https://github.com/bi-sz/github-readme-stats)
+![ParkSeokjin's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
   
 <br />
@@ -30,10 +28,12 @@ username=bi-sz&include_all_commits=true&show_icons=true&theme=cobalt)]
 ![NextJS](https://img.shields.io/badge/Next.js-000000?logo=Next.js&logoColor=white&style=for-the-badge)
 <br />
 
----
+
 
 <br />
+
 ## 🧑🏻‍🔧 Technologies & Tools
+
 
 | 🛠️ Using as the main | 
 | -------------------- |
