@@ -8,10 +8,6 @@
 ####  Programmers Cloud Application Dev Course 1st(2023. 12 ~ 2024. 05)
   
 ####  Zerobase frontend (2023.6 ~ 2023.12)
-</div>
-
-
-  
 ---
 
   
@@ -43,13 +39,6 @@
 
 <br />
 
-### 📫 Contact & Channel
 
-- Blog(in Korean): <a href="https://velog.io/@qkrtjrwls_/posts">
-  <img align="center" src="https://img.shields.io/badge/-Visit_My_Blog-000000?logo=Tistory&logoColor=white&style=for-the-badge" alt="my Blog" />
-  </a>
-  <br />
-
----
 
 
