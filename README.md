@@ -1,15 +1,16 @@
 <div align=center> 
   <img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Park%20SeokJin&fontSize=84&customColorList=12,24&desc=Front-End%20Developer&fontAlignY=39&descAlignY=62&animation=fadeIn" alt="ParkSeokJin1's GitHub" />
-</div>
-
-
+  
 <br />
 
-> 저는 목표가 있으면 목표를 세분해서 지속적으로 꾸준하고 끈기 있게 잘해요!
+목표가 있으면 목표를 세분해서 지속적으로 꾸준하고 끈기 있게!
 
 ####  Programmers Cloud Application Dev Course 1st(2023. 12 ~ 2024. 05)
   
 ####  Zerobase frontend (2023.6 ~ 2023.12)
+</div>
+
+
   
 ---
 
