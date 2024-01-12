@@ -16,7 +16,7 @@
   
 <br />
 
-## 🧑🏻‍💻 Languages & Frameworks
+### 🧑🏻‍💻 Languages & Frameworks
 
 ![React](https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=black&style=for-the-badge)
 ![React_Native](https://img.shields.io/badge/React_Native-61DAFB?logo=React&logoColor=black&style=for-the-badge)
@@ -31,7 +31,7 @@
 
 <br />
 
-## 🧑🏻‍🔧 Technologies & Tools
+### 🧑🏻‍🔧 Technologies & Tools
 
 
 | 🛠️ Using as the main | 
@@ -42,9 +42,9 @@
 
 <br />
 
-## 📫 Contact & Channel
+### 📫 Contact & Channel
 
-- Blog(in Korean): <a href="https://blog.naver.com/skatksdml1">
+- Blog(in Korean): <a href="https://velog.io/@qkrtjrwls_/posts">
   <img align="center" src="https://img.shields.io/badge/-Visit_My_Blog-000000?logo=Tistory&logoColor=white&style=for-the-badge" alt="my Blog" />
   </a>
   <br />
