@@ -1,5 +1,5 @@
 <p align="center">  
-<img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Park%20SeokJin&fontSize=84&customColorList=12,24&desc=Front-End%20Developer&fontAlignY=39&descAlignY=62&animation=fadeIn" alt="ParkSeokJin1's GitHub" </p>
+<img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Park%20SeokJin&fontSize=50&customColorList=12,24&desc=Front-End%20Developer&fontAlignY=39&descAlignY=62&animation=fadeIn" alt="ParkSeokJin1's GitHub" </p>
 <p/>
   
 ## :octocat: 박석진
