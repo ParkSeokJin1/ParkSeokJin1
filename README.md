@@ -45,6 +45,15 @@
   <img src="https://img.shields.io/badge/Zoom-0B5CFF?style=flat-square&logo=Zoom&logoColor=white">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white">
 </p>  
+<h3> ❄️ Stats </h3>
+
+---
+
+<div align="center" >
+ <img src="https://github-readme-stats.vercel.app/api?username=ParkSeokJin1&show_icons=true&theme=dark&card_width=400"/>
+ 
+   
+</div>
 
 
 
